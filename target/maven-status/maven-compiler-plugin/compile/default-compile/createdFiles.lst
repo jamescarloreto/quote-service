@@ -1,0 +1,9 @@
+com\quotemedia\interview\quoteservice\model\Quote.class
+com\quotemedia\interview\quoteservice\repository\QuoteRepository.class
+com\quotemedia\interview\quoteservice\dto\QuoteDto.class
+com\quotemedia\interview\quoteservice\controller\QuoteController.class
+com\quotemedia\interview\quoteservice\model\QuoteId.class
+com\quotemedia\interview\quoteservice\model\Quote$QuoteBuilder.class
+com\quotemedia\interview\quoteservice\QuoteApplication.class
+com\quotemedia\interview\quoteservice\service\impl\QuoteServiceImpl.class
+com\quotemedia\interview\quoteservice\service\QuoteService.class
